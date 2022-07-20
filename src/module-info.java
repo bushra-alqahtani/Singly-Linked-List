@@ -1,0 +1,3 @@
+module noding {
+	exports noding;
+}
